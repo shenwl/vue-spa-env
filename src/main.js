@@ -1,4 +1,5 @@
 import '@/modules/css/normalize.css'
+import '@/modules/js/svg'
 
 import Vue from 'vue'
 import App from './App'
